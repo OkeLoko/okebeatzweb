@@ -98,7 +98,7 @@ header {
 /* Imagen Destacada */
 .featured-image {
     margin: 20px auto;
-    max-width: 100%;
+    max-width: 50%;
     border-radius: 1px;
 }
 
