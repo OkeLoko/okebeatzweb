@@ -65,7 +65,7 @@ function updateCountdown() {
 setInterval(updateCountdown, 1000);
 
 document.getElementById('pre-save-button').addEventListener('click', function() {
-    window.open('https://cutt.ly/Gebjx1EO', '_blank');
+    window.open('https://open.spotify.com/artist/62ILqYXVdl9IqD9UVP55IR', '_blank');
 });
 document.addEventListener('DOMContentLoaded', function() {
     const links = [
