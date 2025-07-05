@@ -84,3 +84,11 @@ header {
     justify-content: center;
     align-items: center;
 }
+
+img {
+    width: 300px;
+    height: 300px; /* fuerza a todas las imágenes a un tamaño cuadrado */
+    object-fit: cover; /* recorta la imagen si es necesario para llenar el contenedor */
+    display: block;
+    margin-bottom: 20px;
+}
